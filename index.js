@@ -1,1 +1,1 @@
-function hello (){console.log('Helo')}
+function hello (){console.log('Hello')}
